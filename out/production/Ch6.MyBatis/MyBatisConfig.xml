@@ -5,6 +5,10 @@
     <!--import db config file-->
     <properties resource="jdbc.properties"></properties>
 
+    <!-- config log4j -->
+    <settings>
+        <setting name="logImpl" value="log4j"/>
+    </settings>
 
     <typeAliases>
         <typeAlias type="com.joyce.bean.Student" alias="student"/>
