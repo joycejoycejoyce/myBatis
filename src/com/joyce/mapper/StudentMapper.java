@@ -14,4 +14,8 @@ public interface StudentMapper {
     public abstract Integer update(Student student);
 
     public abstract Integer delete(Integer id);
+
+    public abstract List<Student> selectCondition(Student student);
+
+    public abstract List<Student> selectByIds(List<Integer> ids);
 }

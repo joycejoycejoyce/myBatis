@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c85f55ea-8e71-4d14-b31c-a284dea86791" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/joyce/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/joyce/mapper/StudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/joyce/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/joyce/service/impl/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsqlparser_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/pagehelper_5_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jsqlparser-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pagehelper-5.1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/joyce/dynamic/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/joyce/paging/Test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ch6.MyBatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ch6.MyBatis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ch6.MyBatis/MyBatisConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch6.MyBatis/MyBatisConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ch6.MyBatis/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch6.MyBatis/StudentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ch6.MyBatis/com/joyce/mapper/StudentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ch6.MyBatis/com/joyce/mapper/StudentMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyBatisConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyBatisConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joyce/mapper/StudentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joyce/mapper/StudentMapper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,59 +27,59 @@
     <session id="-1517379297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="13" />
           <entry key="properties" value="2" />
-          <entry key="xml" value="2" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="13" />
           <entry key="Properties" value="2" />
-          <entry key="XML" value="2" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1191" />
+          <entry key="java" value="1822" />
           <entry key="properties" value="273" />
-          <entry key="xml" value="59" />
+          <entry key="xml" value="478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1191" />
+          <entry key="JAVA" value="1822" />
           <entry key="Properties" value="273" />
-          <entry key="XML" value="59" />
+          <entry key="SQL" value="6" />
+          <entry key="XML" value="472" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/joyce/service/StudentService.java">
+        <entry file="file://$PROJECT_DIR$/src/StudentMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/joyce/service/impl/StudentServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/com/joyce/paging/Test01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="114" column="21" selection-start-line="114" selection-start-column="21" selection-end-line="114" selection-end-column="21" />
+            <state relative-caret-position="476">
+              <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,32 +90,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/joyce/mapper/StudentMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="323">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/joyce/controller/StudentController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -122,17 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyBatisConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -155,14 +126,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/joyce/dao/StudentTest01.java" />
         <option value="$PROJECT_DIR$/src/com/joyce/dao/StudentTest01.java" />
-        <option value="$PROJECT_DIR$/src/com/joyce/mapper/StudentMapper.java" />
         <option value="$PROJECT_DIR$/src/com/joyce/mapper/impl/StudentMapperImpl.java" />
         <option value="$PROJECT_DIR$/src/com/joyce/service/StudentService.java" />
-        <option value="$PROJECT_DIR$/src/com/joyce/controller/StudentController.java" />
-        <option value="$PROJECT_DIR$/src/MyBatisConfig.xml" />
         <option value="$PROJECT_DIR$/src/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/StudentMapper.xml" />
         <option value="$PROJECT_DIR$/src/com/joyce/service/impl/StudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/joyce/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/com/joyce/mapper/StudentMapper.java" />
+        <option value="$PROJECT_DIR$/src/com/joyce/dynamic/Test01.java" />
+        <option value="$PROJECT_DIR$/src/StudentMapper.xml" />
+        <option value="$PROJECT_DIR$/src/MyBatisConfig.xml" />
+        <option value="$PROJECT_DIR$/src/com/joyce/paging/Test01.java" />
       </list>
     </option>
   </component>
@@ -173,10 +146,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -184,6 +157,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,11 +169,6 @@
             <path>
               <item name="Ch6.MyBatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ch6.MyBatis" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ch6.MyBatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ch6.MyBatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,42 +182,18 @@
               <item name="Ch6.MyBatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="joyce" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ch6.MyBatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ch6.MyBatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="joyce" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ch6.MyBatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ch6.MyBatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="joyce" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ch6.MyBatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ch6.MyBatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="joyce" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619267175929" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619408774302" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
@@ -271,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StudentController.delete">
+  <component name="RunManager" selected="JUnit.Test01.selectPaging">
     <configuration name="StudentController.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ch6.MyBatis" />
       <extension name="coverage">
@@ -283,54 +229,6 @@
       <option name="PACKAGE_NAME" value="com.joyce.controller" />
       <option name="MAIN_CLASS_NAME" value="com.joyce.controller.StudentController" />
       <option name="METHOD_NAME" value="delete" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentController.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Ch6.MyBatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.joyce.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.joyce.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.joyce.controller.StudentController" />
-      <option name="METHOD_NAME" value="insert" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentController.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Ch6.MyBatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.joyce.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.joyce.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.joyce.controller.StudentController" />
-      <option name="METHOD_NAME" value="selectAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentController.selectById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Ch6.MyBatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.joyce.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.joyce.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.joyce.controller.StudentController" />
-      <option name="METHOD_NAME" value="selectById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -352,6 +250,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test01.selectByIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ch6.MyBatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joyce.dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.joyce.dynamic" />
+      <option name="MAIN_CLASS_NAME" value="com.joyce.dynamic.Test01" />
+      <option name="METHOD_NAME" value="selectByIds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.selectCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ch6.MyBatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joyce.dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.joyce.dynamic" />
+      <option name="MAIN_CLASS_NAME" value="com.joyce.dynamic.Test01" />
+      <option name="METHOD_NAME" value="selectCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.selectPaging" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ch6.MyBatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joyce.paging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.joyce.paging" />
+      <option name="MAIN_CLASS_NAME" value="com.joyce.paging.Test01" />
+      <option name="METHOD_NAME" value="selectPaging" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -366,19 +312,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.39" />
-      <item itemvalue="JUnit.StudentController.selectAll" />
-      <item itemvalue="JUnit.StudentController.selectById" />
-      <item itemvalue="JUnit.StudentController.insert" />
       <item itemvalue="JUnit.StudentController.update" />
       <item itemvalue="JUnit.StudentController.delete" />
+      <item itemvalue="JUnit.Test01.selectCondition" />
+      <item itemvalue="JUnit.Test01.selectByIds" />
+      <item itemvalue="JUnit.Test01.selectPaging" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test01.selectPaging" />
+        <item itemvalue="JUnit.Test01.selectByIds" />
+        <item itemvalue="JUnit.Test01.selectCondition" />
         <item itemvalue="JUnit.StudentController.delete" />
         <item itemvalue="JUnit.StudentController.update" />
-        <item itemvalue="JUnit.StudentController.insert" />
-        <item itemvalue="JUnit.StudentController.selectById" />
-        <item itemvalue="JUnit.StudentController.selectAll" />
       </list>
     </recent_temporary>
   </component>
@@ -392,72 +338,79 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619257947007</updated>
-      <workItem from="1619257949796" duration="5437000" />
+      <workItem from="1619257949796" duration="5888000" />
+      <workItem from="1619360749042" duration="4925000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentTest01_selectAll - 2021.04.24 at 05h 54m 18s.xml">
-      <configuration name="StudentTest01.selectAll" configurationId="JUnit" />
+    <history-entry file="Test01_selectCondition - 2021.04.25 at 10h 52m 20s.xml">
+      <configuration name="Test01.selectCondition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentTest01_selectAll - 2021.04.24 at 05h 55m 02s.xml">
-      <configuration name="StudentTest01.selectAll" configurationId="JUnit" />
+    <history-entry file="Test01_selectCondition - 2021.04.25 at 10h 52m 40s.xml">
+      <configuration name="Test01.selectCondition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentController_selectAll - 2021.04.24 at 07h 15m 16s.xml">
-      <configuration name="StudentController.selectAll" configurationId="JUnit" />
+    <history-entry file="Test01_selectCondition - 2021.04.25 at 10h 54m 15s.xml">
+      <configuration name="Test01.selectCondition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentController_selectById - 2021.04.24 at 07h 16m 33s.xml">
-      <configuration name="StudentController.selectById" configurationId="JUnit" />
+    <history-entry file="Test01_selectCondition - 2021.04.25 at 11h 01m 06s.xml">
+      <configuration name="Test01.selectCondition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentController_insert - 2021.04.24 at 07h 17m 45s.xml">
-      <configuration name="StudentController.insert" configurationId="JUnit" />
+    <history-entry file="Test01_selectByIds - 2021.04.25 at 22h 25m 12s.xml">
+      <configuration name="Test01.selectByIds" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentController_update - 2021.04.24 at 07h 51m 49s.xml">
-      <configuration name="StudentController.update" configurationId="JUnit" />
+    <history-entry file="Test01_selectByIds - 2021.04.25 at 22h 29m 26s.xml">
+      <configuration name="Test01.selectByIds" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentController_delete - 2021.04.24 at 07h 52m 20s.xml">
-      <configuration name="StudentController.delete" configurationId="JUnit" />
+    <history-entry file="Test01_selectPaging - 2021.04.25 at 23h 35m 42s.xml">
+      <configuration name="Test01.selectPaging" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentController_selectById - 2021.04.24 at 08h 02m 10s.xml">
-      <configuration name="StudentController.selectById" configurationId="JUnit" />
+    <history-entry file="Test01_selectPaging - 2021.04.25 at 23h 38m 50s.xml">
+      <configuration name="Test01.selectPaging" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test01_selectPaging - 2021.04.25 at 23h 39m 28s.xml">
+      <configuration name="Test01.selectPaging" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test01_selectPaging - 2021.04.25 at 23h 39m 38s.xml">
+      <configuration name="Test01.selectPaging" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5437000" />
+    <option name="totallyTimeSpent" value="10813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,16 +437,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/joyce/mapper/impl/StudentMapperImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="136" column="57" selection-start-line="136" selection-start-column="57" selection-end-line="136" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/joyce/mapper/impl/StudentMapperImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -501,10 +445,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyBatisConfig.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/joyce/controller/StudentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="527">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -515,30 +462,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/joyce/controller/StudentController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/joyce/service/impl/StudentServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="198">
+          <caret line="162" column="35" selection-start-line="162" selection-start-column="35" selection-end-line="162" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/joyce/mapper/StudentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -552,10 +482,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/joyce/service/impl/StudentServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../../2.阶段二-JavaWeb/06.Mybatis/06.Mybatis/01-MyBatis基础/代码/代码/¦·-d/mybatis01/src/com/itheima/mapper/impl/StudentMapperImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="114" column="21" selection-start-line="114" selection-start-column="21" selection-end-line="114" selection-end-column="21" />
+        <state relative-caret-position="459">
+          <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyBatisConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/joyce/dynamic/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/joyce/mapper/StudentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/joyce/paging/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

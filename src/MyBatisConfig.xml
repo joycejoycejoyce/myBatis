@@ -13,7 +13,11 @@
     <typeAliases>
         <typeAlias type="com.joyce.bean.Student" alias="student"/>
     </typeAliases>
-
+    
+    <!--pagination helper-->
+    <plugins>
+        <plugin interceptor="com.github.pagehelper.PageInterceptor"></plugin>
+    </plugins>
     <!-- environments: config database environment. you can have multiple -->
     <environments default="mysql">
         <!-- id is the unique identifier -->
